@@ -18,8 +18,8 @@ The top 3 predictor variables that influences the bike booking are:
 So, it's suggested to consider these variables utmost importance while planning, to achive maximum Booking
 The next best features that can also be considered are
 
-season_4: - A coefficient value of ‘0.128744’ indicated that w.r.t season_1, a unit increase in season_4 variable increases the bike hire numbers by 0.128744 units.
-windspeed: - A coefficient value of ‘-0.155191’ indicated that, a unit increase in windspeed variable decreases the bike hire numbers by 0.155191 units.
+* season_4: - A coefficient value of ‘0.128744’ indicated that w.r.t season_1, a unit increase in season_4 variable increases the bike hire numbers by 0.128744 units.
+* windspeed: - A coefficient value of ‘-0.155191’ indicated that, a unit increase in windspeed variable decreases the bike hire numbers by 0.155191 units.
 
 <!-- You can include any other section that is pertinent to your problem -->
 
